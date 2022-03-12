@@ -71,7 +71,6 @@ we have created sign in/up interface page backed with the power of django framew
 
 
 
-
 ![Gps page](./images/gps.jpg)
 
 >>>We also integrated gps, which you can control with on/off button on top left corner, it'll take your current location.(You can then check toilets near me pagefor info). . you can access map also from this page(top right corner), you can also put your entire journey for better info.You can also put your reviews and wether you were satisfied or not. Links to home page and your profile are also given on bottom right corner.
