@@ -57,11 +57,11 @@ feedback and social awareness.
 left and right which give access to other pages like login, main page, maps and about us.
 
 
-![Main page](./images/2.jpg)
+![Main page](./images/main.jpg)
 
 ><span style="color: #f2cf4a; font-family: Babas; font-size: 1.5em;">1) *Home*:</span>Main page is designed keeping it's aesthetic aspect high so that perception of public toilets being attached with negative emotion change. It has 5 icons on its left corner all leading you on different page.
 
-![login](./images/1.jpg)
+![login](./images/login.jpg)
 
 we have created sign in/up interface page backed with the power of django framework .
 
@@ -72,11 +72,11 @@ we have created sign in/up interface page backed with the power of django framew
 
 
 
-![Gps page](./images/8.jpg)
+![Gps page](./images/gps.jpg)
 
 >>>We also integrated gps, which you can control with on/off button on top left corner, it'll take your current location.(You can then check toilets near me pagefor info). . you can access map also from this page(top right corner), you can also put your entire journey for better info.You can also put your reviews and wether you were satisfied or not. Links to home page and your profile are also given on bottom right corner.
 
-![Toilet Near me](./images/9.jpg)
+![Toilet Near me](./images/Toilets near me.jpg)
 
 >>>You can also put your location manually and this page will show all the public toilets near you and their ratings on the scale from 1 to 5. You can also read reviews of other people who used the toilet earlier. On bottom you can also add your own review. Again access to all other pages are given on this page.
 
