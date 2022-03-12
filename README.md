@@ -87,7 +87,7 @@ we have created sign in/up interface page backed with the power of django framew
 ><span style="color: #f2cf4a; font-family: Babas; font-size: 1.5em;">2) *About Us*:</span>
 Moving in homepage further will give a brief description *about* our team. Our main objective is to bring out best confident personality from within you , and lend a helping hand ,which has been explained in this section of webpage. 
 
-![About us](./images/https://github.com/adhishrayas/noob_power/blob/main/images/about%20us.jpg)
+![About us](./images/about%20us.jpg)
 
 ----
 
