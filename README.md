@@ -80,7 +80,7 @@ we have created sign in/up interface page backed with the power of django framew
 
 >>>You can also put your location manually and this page will show all the public toilets near you and their ratings on the scale from 1 to 5. You can also read reviews of other people who used the toilet earlier. On bottom you can also add your own review. Again access to all other pages are given on this page.
 
-![Map page](./images/10.jpg)
+![Map page](./images/map.jpg)
 
 >>>Our site also have map feature to give you overview about oublic restrooms around you and your route of journey.
 
