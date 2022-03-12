@@ -46,7 +46,7 @@ of new public toilets.
 
 
 
-![Home page](./images/)
+![Home page](./images/home.jpg)
 
 >Public toilets cause more problems than providing
 solution to the public users, due to their lack of
